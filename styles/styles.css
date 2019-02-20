@@ -115,8 +115,8 @@ h6 {
 }
 
 .infoContent .block h3 a {
-	color: #ffffff;
-	text-shadow: 2px 2px 3px black;
+	color: blue;
+	text-shadow: 2px 2px 3px white;
 }
 
 .infoContent .block {
